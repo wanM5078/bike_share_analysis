@@ -24,7 +24,7 @@ In this case study, Cyclistic, a fictional bike-share company based in Chicago i
 1. Set working directory to the local folder where the trip data files are stored.
 2. Load R libraries (_tidyverse_, _lubridate_, _ggplot_).
 3. Load all .csv files and then bind them all into a single data frame. Then, delete all the other data frames to keep the environment clutter-free.
-4. Check data frame using _glimpse_ and _View_ function
+4. Check data frame using _glimpse_ and _View_ function.
 
 ### Clean Up
 1. Check for distinct values for columns ("rideable_type" and "member_casual") to identify how many distinct values for said columns.
