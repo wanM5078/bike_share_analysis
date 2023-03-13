@@ -44,7 +44,7 @@ In this case study, Cyclistic, a fictional bike-share company based in Chicago i
 5. Create additional data frames for total rides per hour and per month.
 
 ### Visualize
-1. Using _ggplot_ function, plot the charts for:
+Using _ggplot_ function, plot the charts for:
    - bar chart: Rider Type
    - bar chart: Bike Type
    - bar chart: Average Ride Length by Rider Type
