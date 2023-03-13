@@ -54,7 +54,7 @@ In this case study, Cyclistic, a fictional bike-share company based in Chicago i
    - bar chart: Total Rides per Month
 
 ### Export
-For further analysis in other visualization software, such as Tableau, export the clean data frame to a .csv file. Remove unnecessary columns in the data frame that were not used in the earlier analysis to significantly reduce the output file size.
+For further analysis in other visualization software such as Tableau, export the clean data frame to a .csv file. Remove unnecessary columns in the data frame that were not used in the earlier analysis to significantly reduce the output file size.
 
 ## Presentation
 Prepare a presentation slide using the charts exported from R Studio to answer the business task.
