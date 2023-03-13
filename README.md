@@ -3,7 +3,7 @@
 ## Background 
 This is one of the case study for the capstone project in the Google Data Analytics certification. 
 
-In this case study, Cyclistic, a fictional bike-share company based in Chicago is trying to convert as casual riders into annual members for the future growth of the company. As such, it requires an analysis of how the casual riders and annual members differ in how they use its service. The analysis should include the last 12 months of Cyclistic trip data.
+In this case study, Cyclistic, a fictional bike-share company based in Chicago is trying to convert more casual riders into annual members for the future growth of the company. As such, it requires an analysis of how the casual riders and annual members differ in how they use its service. The analysis should include the last 12 months of Cyclistic trip data.
 
 ### Business Task
 "How do annual members and casual riders use Cyclistic bikes differently?"
