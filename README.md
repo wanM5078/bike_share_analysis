@@ -11,7 +11,7 @@ In this case study, Cyclistic, a fictional bike-share company based in Chicago i
 
 ## Tools Used
 * Excel (for quick check on how the data looks like)
-* RStudio (using R as it's free and can handle large dataset with ease (1.11 GB, with almost 6 million rows of data in 18 columns). Cleaning, analysis and visualization can all be done in a single platform)
+* RStudio (using R as it's free and can handle large dataset with ease; 1.11 GB, with almost 6 million rows of data in 18 columns. Cleaning, analysis and visualization can all be done in a single platform)
 * Keynote (for creating presentation slide)
 
 ## Analysis
