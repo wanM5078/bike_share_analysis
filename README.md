@@ -56,6 +56,9 @@ Using _ggplot_ function, plot the charts for:
 ### Export
 For further analysis in other visualization software such as Tableau, export the clean data frame to a .csv file. Remove unnecessary columns in the data frame that were not used in the earlier analysis to significantly reduce the output file size.
 
+## Tableau
+[Analysis of Bike-Share Service by Cyclistic](https://public.tableau.com/views/AnalysisofBike-ShareServicebyCyclistic/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ## Presentation
 Prepare a presentation slide using the charts exported from R Studio to answer the business task.
 
